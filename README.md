@@ -56,8 +56,9 @@ nombresEstudiantes <-- {"Mónica", "Homero", "Antonio", "Vanessa"}
 apellidosEstudiantes <-- {"Suárez", "Jara", "Salas", "Mora"}
 
 Al final debe presentar el siguiente reporte
-
+```
 Mónica Suárez tiene una nota de 9 (Excelente)
 Homero Jara tiene una nota de 10 (Excelente)
 Antonio Salas tiene una nota de 7 (Regular)
 Vanessa Mora tiene una nota de 8 (Muy Buena)
+```
